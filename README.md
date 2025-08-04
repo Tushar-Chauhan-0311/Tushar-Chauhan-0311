@@ -1,6 +1,5 @@
-## Hi there 👋
+Hey 👋 Welcome to My Profile!
 
-# 💫 About Me:
  About Me<br>Hi! I'm Tushar Chauhan, a passionate frontend developer and a C++ enthusiast currently diving deep into Data Structures and Algorithms (DSA).<br><br>I love building interactive and user-friendly web interfaces using HTML, CSS, and JavaScript. Whether it's a small project like a game or a full-fledged website, I enjoy turning ideas into real, functional web pages.<br><br>Alongside frontend development, I'm also strengthening my problem-solving skills by practicing DSA in C++. I believe that mastering both development and algorithms will help me become a well-rounded software developer.<br><br>🔧 What I'm Working On:<br>Building responsive and modern UI designs<br><br>Practicing DSA problems regularly (using platforms like LeetCode, Codeforces, etc.)<br><br>Exploring JavaScript in depth<br><br>Learning Git & GitHub for collaboration and version control<br><br>🌱 Currently Learning:<br>JavaScript DOM and event handling<br><br>Advanced DSA concepts like Trees, Graphs, and Dynamic Programming<br><br>Basic UI/UX design principles<br><br><br><br>
 
 
